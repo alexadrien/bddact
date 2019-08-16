@@ -4,6 +4,7 @@
 
 - Docker
 - Docker Compose
+- make
 
 ## How to install
 
