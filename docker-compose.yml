@@ -1,0 +1,17 @@
+version: '3.6'
+services:
+  api:
+#    image: python:latest
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    command: python ./manage.py runserver 0.0.0.0:8000
+    working_dir: /usr/src
+    volumes:
+      - ./api:/usr/src
+    ports:
+      - 8000:8000
+    environment:
+      PYTHONPATH: $PYTHONPATH:/usr/local/bin/python:/usr/src/vendors
+      PYTHONUNBUFFERED: 1
+

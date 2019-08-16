@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b82e6ab7-5e6b-45dc-bc33-946391b36405" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/mysite/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/polls/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://DATABASE/f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.SCHEMA:main">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>DATABASE</ID>
+              <OriginalElement>f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.SCHEMA:main</OriginalElement>
+              <nodes>
+                <node x="460.26851851851853" y="1018.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_usercurrency</node>
+                <node x="519.0" y="853.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_currency</node>
+                <node x="235.00000000000003" y="517.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_groups</node>
+                <node x="0.0" y="853.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_ordertype</node>
+                <node x="397.0" y="517.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_user_permissions</node>
+                <node x="629.0" y="517.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group_permissions</node>
+                <node x="636.2685185185185" y="1018.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_countrycurrency</node>
+                <node x="428.39814814814815" y="242.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group</node>
+                <node x="206.0555555555556" y="143.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user</node>
+                <node x="297.51851851851853" y="710.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_country</node>
+                <node x="155.0" y="831.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_tax</node>
+                <node x="614.0925925925926" y="220.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_permission</node>
+                <node x="307.89814814814815" y="0.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_content_type</node>
+                <node x="1024.2685185185185" y="710.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_migrations</node>
+                <node x="267.20833333333337" y="996.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_order</node>
+                <node x="858.2685185185185" y="710.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.sqlite_master</node>
+                <node x="1.0" y="462.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_admin_log</node>
+                <node x="335.0" y="853.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_user</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_usercurrency" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_currency">
+                  <point x="39.0" y="-57.5" />
+                  <point x="577.2685185185185" y="976.0" />
+                  <point x="586.0" y="976.0" />
+                  <point x="0.0" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_admin_log" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user">
+                  <point x="53.5" y="-101.5" />
+                  <point x="161.5" y="442.0" />
+                  <point x="235.72222222222229" y="442.0" />
+                  <point x="-59.333333333333314" y="134.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_groups" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group">
+                  <point x="35.5" y="-46.5" />
+                  <point x="341.5" y="442.0" />
+                  <point x="465.39814814814815" y="442.0" />
+                  <point x="-37.0" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_user" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_country">
+                  <point x="0.0" y="-35.5" />
+                  <point x="408.0" y="811.0" />
+                  <point x="381.26851851851853" y="811.0" />
+                  <point x="16.75" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_countrycurrency" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_currency">
+                  <point x="-44.25" y="-57.5" />
+                  <point x="680.5185185185185" y="976.0" />
+                  <point x="630.6666666666667" y="976.0" />
+                  <point x="44.666666666666686" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_tax" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_country">
+                  <point x="-40.0" y="-57.5" />
+                  <point x="195.0" y="801.0" />
+                  <point x="314.26851851851853" y="801.0" />
+                  <point x="-50.25" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_countrycurrency" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_country">
+                  <point x="44.25" y="-57.5" />
+                  <point x="769.0185185185185" y="811.0" />
+                  <point x="414.76851851851853" y="811.0" />
+                  <point x="50.25" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group_permissions" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group">
+                  <point x="-46.0" y="-46.5" />
+                  <point x="675.0" y="432.0" />
+                  <point x="539.3981481481482" y="432.0" />
+                  <point x="37.0" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_admin_log" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_content_type">
+                  <point x="-53.5" y="-101.5" />
+                  <point x="54.5" y="118.0" />
+                  <point x="351.39814814814815" y="118.0" />
+                  <point x="-43.5" y="46.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_user_permissions" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_permission">
+                  <point x="53.0" y="-46.5" />
+                  <point x="556.0" y="442.0" />
+                  <point x="659.0925925925926" y="442.0" />
+                  <point x="-45.0" y="57.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_groups" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user">
+                  <point x="-35.5" y="-46.5" />
+                  <point x="270.5" y="442.0" />
+                  <point x="295.0555555555556" y="442.0" />
+                  <point x="0.0" y="134.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_order" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_user">
+                  <point x="0.0" y="-79.5" />
+                  <point x="344.70833333333337" y="976.0" />
+                  <point x="371.5" y="976.0" />
+                  <point x="-36.5" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_order" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_currency">
+                  <point x="51.66666666666663" y="-79.5" />
+                  <point x="396.375" y="976.0" />
+                  <point x="541.3333333333334" y="976.0" />
+                  <point x="-44.66666666666666" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group_permissions" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_permission">
+                  <point x="46.0" y="-46.5" />
+                  <point x="767.0" y="442.0" />
+                  <point x="749.0925925925926" y="442.0" />
+                  <point x="45.0" y="57.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_permission" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_content_type">
+                  <point x="0.0" y="-57.5" />
+                  <point x="704.0925925925926" y="118.0" />
+                  <point x="438.39814814814815" y="118.0" />
+                  <point x="43.5" y="46.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_usercurrency" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_user">
+                  <point x="-39.0" y="-57.5" />
+                  <point x="499.26851851851853" y="966.0" />
+                  <point x="444.5" y="966.0" />
+                  <point x="36.5" y="35.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_user_permissions" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user">
+                  <point x="-53.0" y="-46.5" />
+                  <point x="450.0" y="432.0" />
+                  <point x="354.38888888888897" y="432.0" />
+                  <point x="59.33333333333337" y="134.5" />
+                </edge>
+                <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_order" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_ordertype">
+                  <point x="-51.66666666666663" y="-79.5" />
+                  <point x="293.04166666666674" y="976.0" />
+                  <point x="67.5" y="976.0" />
+                  <point x="0.0" y="35.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.3705945911974011" x="405.0494568433156" y="958.4877748961878" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Key columns</Category>
+                <Category>Columns</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>max_lenght</find>
+      <find>Man</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/api/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/api/polls/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/bddact.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bddact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bddact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bddact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bddact" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bddact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bddact" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bddact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bddact" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="polls" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b82e6ab7-5e6b-45dc-bc33-946391b36405" name="Default Changelist" comment="" />
+      <created>1565971464055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565971464055</updated>
+      <workItem from="1565971465414" duration="2565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2565000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12087912" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="make" />
+      <window_info anchor="right" id="Remote Host" weight="0.32967034" />
+      <window_info anchor="right" id="SciView" />
+      <window_info active="true" anchor="right" id="Database" visible="true" weight="0.14102565" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/polls/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f005cf59-04f4-4cbc-bff9-7f0c3de3bf02/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/mysite/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.SCHEMA:main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.SCHEMA:main</OriginalElement>
+          <nodes>
+            <node x="460.26851851851853" y="1018.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_usercurrency</node>
+            <node x="519.0" y="853.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_currency</node>
+            <node x="235.00000000000003" y="517.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_groups</node>
+            <node x="0.0" y="853.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_ordertype</node>
+            <node x="397.0" y="517.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_user_permissions</node>
+            <node x="629.0" y="517.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group_permissions</node>
+            <node x="636.2685185185185" y="1018.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_countrycurrency</node>
+            <node x="428.39814814814815" y="242.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group</node>
+            <node x="206.0555555555556" y="143.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user</node>
+            <node x="297.51851851851853" y="710.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_country</node>
+            <node x="155.0" y="831.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_tax</node>
+            <node x="614.0925925925926" y="220.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_permission</node>
+            <node x="307.89814814814815" y="0.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_content_type</node>
+            <node x="1024.2685185185185" y="710.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_migrations</node>
+            <node x="267.20833333333337" y="996.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_order</node>
+            <node x="858.2685185185185" y="710.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.sqlite_master</node>
+            <node x="1.0" y="462.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_admin_log</node>
+            <node x="335.0" y="853.0">f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_user</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_usercurrency" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_currency">
+              <point x="39.0" y="-57.5" />
+              <point x="577.2685185185185" y="976.0" />
+              <point x="586.0" y="976.0" />
+              <point x="0.0" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_admin_log" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user">
+              <point x="53.5" y="-101.5" />
+              <point x="161.5" y="442.0" />
+              <point x="235.72222222222229" y="442.0" />
+              <point x="-59.333333333333314" y="134.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_groups" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group">
+              <point x="35.5" y="-46.5" />
+              <point x="341.5" y="442.0" />
+              <point x="465.39814814814815" y="442.0" />
+              <point x="-37.0" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_user" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_country">
+              <point x="0.0" y="-35.5" />
+              <point x="408.0" y="811.0" />
+              <point x="381.26851851851853" y="811.0" />
+              <point x="16.75" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_countrycurrency" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_currency">
+              <point x="-44.25" y="-57.5" />
+              <point x="680.5185185185185" y="976.0" />
+              <point x="630.6666666666667" y="976.0" />
+              <point x="44.666666666666686" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_tax" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_country">
+              <point x="-40.0" y="-57.5" />
+              <point x="195.0" y="801.0" />
+              <point x="314.26851851851853" y="801.0" />
+              <point x="-50.25" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_countrycurrency" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_country">
+              <point x="44.25" y="-57.5" />
+              <point x="769.0185185185185" y="811.0" />
+              <point x="414.76851851851853" y="811.0" />
+              <point x="50.25" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group_permissions" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group">
+              <point x="-46.0" y="-46.5" />
+              <point x="675.0" y="432.0" />
+              <point x="539.3981481481482" y="432.0" />
+              <point x="37.0" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_admin_log" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_content_type">
+              <point x="-53.5" y="-101.5" />
+              <point x="54.5" y="118.0" />
+              <point x="351.39814814814815" y="118.0" />
+              <point x="-43.5" y="46.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_user_permissions" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_permission">
+              <point x="53.0" y="-46.5" />
+              <point x="556.0" y="442.0" />
+              <point x="659.0925925925926" y="442.0" />
+              <point x="-45.0" y="57.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_groups" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user">
+              <point x="-35.5" y="-46.5" />
+              <point x="270.5" y="442.0" />
+              <point x="295.0555555555556" y="442.0" />
+              <point x="0.0" y="134.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_order" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_user">
+              <point x="0.0" y="-79.5" />
+              <point x="344.70833333333337" y="976.0" />
+              <point x="371.5" y="976.0" />
+              <point x="-36.5" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_order" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_currency">
+              <point x="51.66666666666663" y="-79.5" />
+              <point x="396.375" y="976.0" />
+              <point x="541.3333333333334" y="976.0" />
+              <point x="-44.66666666666666" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_group_permissions" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_permission">
+              <point x="46.0" y="-46.5" />
+              <point x="767.0" y="442.0" />
+              <point x="749.0925925925926" y="442.0" />
+              <point x="45.0" y="57.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_permission" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.django_content_type">
+              <point x="0.0" y="-57.5" />
+              <point x="704.0925925925926" y="118.0" />
+              <point x="438.39814814814815" y="118.0" />
+              <point x="43.5" y="46.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_usercurrency" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_user">
+              <point x="-39.0" y="-57.5" />
+              <point x="499.26851851851853" y="966.0" />
+              <point x="444.5" y="966.0" />
+              <point x="36.5" y="35.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user_user_permissions" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.auth_user">
+              <point x="-53.0" y="-46.5" />
+              <point x="450.0" y="432.0" />
+              <point x="354.38888888888897" y="432.0" />
+              <point x="59.33333333333337" y="134.5" />
+            </edge>
+            <edge source="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_order" target="f005cf59-04f4-4cbc-bff9-7f0c3de3bf02.TABLE:main.polls_ordertype">
+              <point x="-51.66666666666663" y="-79.5" />
+              <point x="293.04166666666674" y="976.0" />
+              <point x="67.5" y="976.0" />
+              <point x="0.0" y="35.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.3705945911974011" x="405.0494568433156" y="958.4877748961878" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
